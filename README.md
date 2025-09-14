@@ -8,7 +8,9 @@ ensemble of LangChain's [Contextual compression](https://python.langchain.com/do
 is used to extract the relevant parts (if any) of each web page in the search results
 and the results are appended to the model's output.
 ![llm_websearch](https://github.com/mamei16/LLM_Web_search/assets/25900898/f9d2d83c-e3cf-4f69-91c2-e9c3fe0b7d89)
+
 ## Installation
+
 1. Go to the "Session" tab of the web UI and use "Install or update an extension" 
 to download the latest code for this extension.
 2. Open the subfolder `text-generation-webui/extensions/LLM_Web_search` 
